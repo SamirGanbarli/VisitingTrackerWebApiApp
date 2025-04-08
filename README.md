@@ -19,7 +19,7 @@ To get started with the Store Visit Tracking System after downloading or cloning
 
 1. Clone the Repository
 If you haven't cloned the repository yet, open a terminal or Git Bash and run the following command:
-[git clone https://github.com/your-username/your-repository-name.git](https://github.com/SamirGanbarli/VisitingTrackerWebApiApp.git)
+https://github.com/SamirGanbarli/VisitingTrackerWebApiApp.git
 
 2. Run the Application
 After setting up the database connection and applying migrations, you can run the application locally by executing the following command:
